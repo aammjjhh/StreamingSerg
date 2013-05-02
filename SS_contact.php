@@ -1,6 +1,6 @@
 <?php
 require_once("my_view/mheaderView.php");
-  echo '				<h2>Contact Sergio</h2>' . PHP_EOL;
+  	echo '				<h2>Contact Sergio</h2>' . PHP_EOL;
 	echo '				<!-- tab containers -->' . PHP_EOL;
 	echo '				<div class="pane">' . PHP_EOL;
 	echo '					<h3>Contact</h3>' . PHP_EOL;
